@@ -1,0 +1,11 @@
+﻿data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-19 06:41:40,energia,simulação de economia de energia,,True,True,1,0.0
+2026-11-19 06:41:40,pergunta,quanto gasta o chuveiro?,13,True,True,1,0.0
+2026-11-19 06:41:40,pergunta,placa solar vale a pena?,15,True,True,1,0.0
+2026-11-19 06:41:40,energia,simulação de economia de energia,,True,True,1,0.0
+2026-11-19 06:41:40,pergunta,como pedir desconto na conta de luz,9,True,True,1,0.0
+2026-11-19 06:41:41,energia,simulação de economia de energia,,True,True,1,0.0
+2026-11-19 06:41:41,pergunta,trocar geladeira velha economiza?,14,True,True,1,0.0
+2026-11-19 06:41:41,pergunta,o que é bandeira vermelha?,,False,False,1,0.0
+2026-11-19 06:41:41,energia,simulação de economia de energia,,True,False,1,0.0
+2026-11-19 06:41:41,pergunta,lampada led gasta menos?,14,True,True,1,0.0

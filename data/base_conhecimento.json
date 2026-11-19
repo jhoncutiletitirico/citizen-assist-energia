@@ -1,0 +1,304 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "sus",
+      "cns",
+      "cartao nacional de saude"
+    ],
+    "resposta": "O Cartão SUS é gratuito. Pode ser feito em qualquer Unidade Básica de Saúde (UBS) ou consultado no aplicativo Meu SUS Digital.",
+    "documentos": [
+      "Documento oficial com foto",
+      "CPF"
+    ],
+    "onde": "Qualquer UBS ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Pegar remédio de graça no Farmácia Popular",
+    "palavras_chave": [
+      "farmacia popular",
+      "remedio gratis",
+      "remedio de graca",
+      "medicamento gratuito",
+      "fralda geriatrica",
+      "remedio"
+    ],
+    "resposta": "Desde fevereiro de 2025, todos os itens do programa Farmácia Popular são gratuitos, incluindo remédios para pressão alta, diabetes e asma. Pessoas com 60 anos ou mais também podem retirar fralda geriátrica. Procure uma farmácia com o selo do programa.",
+    "documentos": [
+      "Documento oficial com foto",
+      "CPF",
+      "Receita médica válida (do SUS ou particular)"
+    ],
+    "onde": "Farmácias credenciadas com o selo 'Aqui tem Farmácia Popular'",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/noticias/2025/fevereiro/ministerio-da-saude-anuncia-100-de-gratuidade-no-farmacia-popular-e-abre-credenciamento-a-todos-os-municipios-do-pais",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Tomar a vacina da gripe (influenza)",
+    "palavras_chave": [
+      "vacina",
+      "vacina da gripe",
+      "gripe",
+      "influenza",
+      "vacinacao"
+    ],
+    "resposta": "Pessoas com 60 anos ou mais fazem parte do público prioritário da vacina contra a gripe, que é gratuita e aplicada todos os anos nos postos de saúde. Leve sua caderneta de vacinação, se tiver.",
+    "documentos": [
+      "Documento oficial com foto",
+      "Cartão SUS ou CPF",
+      "Caderneta de vacinação (se tiver)"
+    ],
+    "onde": "Unidade Básica de Saúde (UBS) ou posto de vacinação",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/g/gripe-influenza",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 4,
+    "categoria": "Transporte",
+    "titulo": "Andar de ônibus de graça na cidade (65 anos ou mais)",
+    "palavras_chave": [
+      "onibus gratis",
+      "onibus de graca",
+      "passe livre",
+      "gratuidade",
+      "transporte gratuito",
+      "onibus"
+    ],
+    "resposta": "Quem tem 65 anos ou mais tem direito a usar de graça o transporte coletivo público urbano e semiurbano. Basta mostrar um documento que comprove a idade. Para quem tem de 60 a 64 anos, a regra depende da lei da sua cidade.",
+    "documentos": [
+      "Qualquer documento oficial com foto que comprove a idade"
+    ],
+    "onde": "No próprio ônibus ou no órgão de transporte da sua cidade (para cartão de gratuidade, quando existir)",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 5,
+    "categoria": "Transporte",
+    "titulo": "Emitir a Carteira da Pessoa Idosa (viagem interestadual)",
+    "palavras_chave": [
+      "carteira da pessoa idosa",
+      "carteira do idoso",
+      "viagem interestadual",
+      "passagem gratis",
+      "passagem de graca",
+      "viagem"
+    ],
+    "resposta": "A Carteira da Pessoa Idosa garante viagens de ônibus entre estados de graça (2 vagas por ônibus) ou com pelo menos 50% de desconto. É para quem tem 60 anos ou mais, renda individual de até 2 salários mínimos e está no Cadastro Único.",
+    "documentos": [
+      "Inscrição atualizada no Cadastro Único",
+      "Conta gov.br (para emitir pela internet)"
+    ],
+    "onde": "Pela internet no gov.br ou no CRAS da sua cidade",
+    "fonte": "https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 6,
+    "categoria": "Transporte",
+    "titulo": "Pedir a credencial de estacionamento para pessoa idosa",
+    "palavras_chave": [
+      "estacionamento",
+      "vaga de idoso",
+      "credencial",
+      "vaga preferencial",
+      "carro"
+    ],
+    "resposta": "Pessoas com 60 anos ou mais podem pedir a credencial para usar as vagas reservadas a idosos nos estacionamentos. A credencial é emitida pelo órgão de trânsito da sua cidade e deve ficar visível no painel do carro.",
+    "documentos": [
+      "Documento oficial com foto que comprove a idade"
+    ],
+    "onde": "Órgão municipal de trânsito da sua cidade (muitas cidades permitem pedir pela internet)",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 7,
+    "categoria": "Assistência Social",
+    "titulo": "Pedir o Benefício de Prestação Continuada (BPC) para idoso",
+    "palavras_chave": [
+      "bpc",
+      "loas",
+      "beneficio",
+      "salario minimo",
+      "ajuda do governo"
+    ],
+    "resposta": "O BPC paga um salário mínimo por mês a quem tem 65 anos ou mais e renda por pessoa da família de até 1/4 do salário mínimo. Não é aposentadoria e não exige ter contribuído para o INSS. A família precisa estar no Cadastro Único.",
+    "documentos": [
+      "Documento oficial com foto",
+      "CPF de todos da família",
+      "Inscrição atualizada no Cadastro Único"
+    ],
+    "onde": "Aplicativo ou site Meu INSS, ou telefone 135",
+    "fonte": "https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-assistenciais/beneficio-assistencial-a-pessoa-idosa-bpc-loas",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 8,
+    "categoria": "Assistência Social",
+    "titulo": "Fazer ou atualizar o Cadastro Único (CadÚnico)",
+    "palavras_chave": [
+      "cadastro unico",
+      "cadunico",
+      "cad unico",
+      "cras",
+      "programa social"
+    ],
+    "resposta": "O Cadastro Único é a porta de entrada para benefícios como BPC, Carteira da Pessoa Idosa e Tarifa Social de Energia. A pessoa responsável pela família faz a entrevista no CRAS ou no posto do Cadastro Único. Mantenha o cadastro atualizado (pelo menos a cada 2 anos).",
+    "documentos": [
+      "CPF ou título de eleitor do responsável familiar",
+      "Documento de cada pessoa da família"
+    ],
+    "onde": "CRAS ou posto do Cadastro Único da sua cidade",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 9,
+    "categoria": "Assistência Social",
+    "titulo": "Desconto ou conta de luz grátis (Tarifa Social de Energia)",
+    "palavras_chave": [
+      "conta de luz",
+      "tarifa social",
+      "energia",
+      "luz gratis",
+      "luz do povo",
+      "desconto na luz"
+    ],
+    "resposta": "Famílias do Cadastro Único com renda de até meio salário mínimo por pessoa, e idosos que recebem o BPC, não pagam pela energia consumida até 80 kWh por mês. Acima disso, paga só o que passar. Taxas como iluminação pública e ICMS continuam. O benefício é automático, mas o Cadastro Único precisa estar atualizado.",
+    "documentos": [
+      "Inscrição atualizada no Cadastro Único",
+      "Conta de luz no nome de alguém da família"
+    ],
+    "onde": "Automático; em caso de dúvida, procure a distribuidora de energia ou o CRAS",
+    "fonte": "https://www.gov.br/mme/pt-br/a-revolucao-brasileira-em-energia-e-mineracao/combate-a-pobreza-energetica-e-inclusao-social/luz-do-povo",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos e Previdência",
+    "titulo": "Fazer a prova de vida do INSS",
+    "palavras_chave": [
+      "prova de vida",
+      "aposentadoria",
+      "inss",
+      "pensao",
+      "bloqueio do beneficio"
+    ],
+    "resposta": "A prova de vida agora é feita pelo próprio INSS, cruzando dados (como vacinação, consultas e uso de documentos). Você não precisa ir ao banco. Se o INSS não conseguir confirmar, ele avisa pelo Meu INSS ou pelo banco. Desconfie de quem ligar pedindo seus dados.",
+    "documentos": [
+      "Nenhum documento é necessário na maioria dos casos"
+    ],
+    "onde": "Aplicativo ou site Meu INSS, ou telefone 135",
+    "fonte": "https://www.gov.br/inss/pt-br/assuntos/prova-de-vida",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 11,
+    "categoria": "Direitos e Previdência",
+    "titulo": "Denunciar violência ou abandono contra pessoa idosa (Disque 100)",
+    "palavras_chave": [
+      "violencia",
+      "maus tratos",
+      "abandono",
+      "denuncia",
+      "disque 100",
+      "golpe"
+    ],
+    "resposta": "Para denunciar violência, abandono, maus-tratos ou abuso financeiro contra pessoa idosa, ligue para o Disque 100. A ligação é gratuita e a denúncia pode ser anônima. Em caso de emergência, ligue 190 (Polícia Militar).",
+    "documentos": [
+      "Nenhum documento é necessário"
+    ],
+    "onde": "Telefone 100 (Disque Direitos Humanos)",
+    "fonte": "https://www.gov.br/mdh/pt-br/ondh",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 12,
+    "categoria": "Direitos e Previdência",
+    "titulo": "Direito a atendimento prioritário em filas",
+    "palavras_chave": [
+      "fila",
+      "prioridade",
+      "atendimento preferencial",
+      "atendimento prioritario",
+      "preferencia"
+    ],
+    "resposta": "Pessoas com 60 anos ou mais têm direito a atendimento preferencial em órgãos públicos, bancos e empresas. Quem tem 80 anos ou mais tem prioridade especial, à frente dos demais idosos.",
+    "documentos": [
+      "Documento oficial com foto que comprove a idade"
+    ],
+    "onde": "Em qualquer local de atendimento ao público",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 13,
+    "categoria": "Energia",
+    "titulo": "Economizar energia no banho (chuveiro elétrico)",
+    "palavras_chave": [
+      "chuveiro",
+      "banho",
+      "chuveiro eletrico",
+      "conta alta",
+      "gastar menos luz"
+    ],
+    "resposta": "O chuveiro elétrico costuma ser um dos aparelhos que mais gastam. Um chuveiro de 5.500 W ligado 10 minutos gasta cerca de 0,9 kWh. Reduzir cada banho de 10 para 7 minutos economiza cerca de 30% dessa energia, e usar a posição verão nos dias quentes reduz ainda mais. Use a opção 5 do menu para simular a sua economia.",
+    "documentos": [
+      "Nenhum documento é necessário",
+      "Tenha em mãos a conta de luz para ver o consumo em kWh"
+    ],
+    "onde": "Em casa; dúvidas sobre a etiqueta do aparelho: Inmetro",
+    "fonte": "https://www.gov.br/inmetro/pt-br/assuntos/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 14,
+    "categoria": "Energia",
+    "titulo": "Trocar lâmpadas por LED e escolher aparelhos eficientes",
+    "palavras_chave": [
+      "lampada",
+      "led",
+      "selo procel",
+      "etiqueta de energia",
+      "geladeira"
+    ],
+    "resposta": "Lâmpadas LED gastam menos energia para a mesma claridade. Ao comprar geladeira, TV ou chuveiro, prefira a classe A da Etiqueta Nacional de Conservação de Energia (ENCE) ou o Selo Procel. A etiqueta mostra o consumo em kWh por mês.",
+    "documentos": [
+      "Nenhum documento é necessário"
+    ],
+    "onde": "Lojas e comércio; informações sobre a etiqueta: Inmetro e Procel",
+    "fonte": "https://www.gov.br/inmetro/pt-br/assuntos/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 15,
+    "categoria": "Energia",
+    "titulo": "Vale a pena instalar energia solar em casa?",
+    "palavras_chave": [
+      "energia solar",
+      "placa solar",
+      "painel solar",
+      "fotovoltaica",
+      "aquecedor solar"
+    ],
+    "resposta": "Depende do seu consumo e de ter Tarifa Social. Quem gasta pouco e tem Tarifa Social já não paga os primeiros 80 kWh, então placas solares trazem pouca economia. O aquecedor solar de água reduz o gasto do chuveiro. Sistemas de geração precisam de instalador habilitado e aprovação da distribuidora. Use a opção 5 do menu para comparar as alternativas.",
+    "documentos": [
+      "Conta de luz (para ver o consumo em kWh)",
+      "Pelo menos 3 orçamentos de empresas diferentes"
+    ],
+    "onde": "Distribuidora de energia da sua região e empresas instaladoras",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14300.htm",
+    "verificado_em": "2026-11-09"
+  }
+]

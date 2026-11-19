@@ -1,0 +1,7 @@
+﻿cenario;alternativa;tipo;economia_kwh_mes;conta_nova_r;economia_r_mes;investimento_r;payback_meses;co2_evitado_kg_ano;observacao
+SEM Tarifa Social;Uso consciente + LED;Eficiência energética;21.9;122.76;24.09;72.0;2.99;10.12;"Baixo custo e retorno imediato; depende da mudança de hábito."
+SEM Tarifa Social;Aquecedor solar de água;Renovável (solar térmica);38.5;104.5;42.35;3000;70.84;17.79;"Precisa de telhado com sol e espaço para o reservatório; em dias nublados o chuveiro elétrico complementa."
+SEM Tarifa Social;Solar fotovoltaica (1.0 kWp);Renovável (solar fotovoltaica);97.75;39.33;107.53;2930.0;27.25;45.16;"Exige telhado adequado, instalador habilitado e aprovação da distribuidora; a taxa mínima e a iluminação pública continuam."
+COM Tarifa Social (Luz do Povo);Uso consciente + LED;Eficiência energética;21.9;34.76;24.09;72.0;2.99;10.12;"Baixo custo e retorno imediato; depende da mudança de hábito."
+COM Tarifa Social (Luz do Povo);Aquecedor solar de água;Renovável (solar térmica);38.5;16.5;42.35;3000;70.84;17.79;"Precisa de telhado com sol e espaço para o reservatório; em dias nublados o chuveiro elétrico complementa."
+COM Tarifa Social (Luz do Povo);Solar fotovoltaica (0.5 kWp);Renovável (solar fotovoltaica);48.88;5.09;53.76;1465.0;27.25;22.58;"Exige telhado adequado, instalador habilitado e aprovação da distribuidora; a taxa mínima e a iluminação pública continuam."

@@ -1,0 +1,35 @@
+{
+  "_descricao": "Premissas dos cálculos de energia. tipo = 'oficial' (dado publicado) ou 'estimado' (valor de referência justificado, NÃO garantido). Período de referência comum: 1 mês (30 dias).",
+  "tarifa_r_kwh": {
+    "valor": 1.10, "unidade": "R$/kWh (com ICMS e PIS/Cofins)", "tipo": "estimado",
+    "origem": "ANEEL InfoTarifa jun/2026: tarifa residencial B1 média de R$ 851/MWh sem tributos; ICMS médio 17,3% e PIS/Cofins 5,2% calculados 'por dentro': 0,851 / (1 - 0,225) = 1,098 R$/kWh. Bandeiras e iluminação pública não incluídas.",
+    "fonte": "https://www.gov.br/aneel/pt-br"
+  },
+  "chuveiro_inverno_w": {
+    "valor": 5500, "unidade": "W", "tipo": "estimado",
+    "origem": "Potência típica de chuveiro elétrico residencial na posição inverno; a potência real está na etiqueta do aparelho.",
+    "fonte": "https://www.gov.br/inmetro/pt-br/assuntos/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem"
+  },
+  "banhos_por_dia": {"valor": 2, "unidade": "banhos/dia", "tipo": "estimado", "origem": "Casa de referência: 2 moradores, 1 banho cada.", "fonte": "premissa do grupo"},
+  "minutos_banho_atual": {"valor": 10, "unidade": "min", "tipo": "estimado", "origem": "Premissa da casa de referência.", "fonte": "premissa do grupo"},
+  "minutos_banho_consciente": {"valor": 7, "unidade": "min", "tipo": "estimado", "origem": "Meta de redução de 3 minutos por banho.", "fonte": "premissa do grupo"},
+  "lampadas_qtd": {"valor": 6, "unidade": "lâmpadas", "tipo": "estimado", "origem": "Casa de referência.", "fonte": "premissa do grupo"},
+  "lampadas_horas_dia": {"valor": 5, "unidade": "h/dia", "tipo": "estimado", "origem": "Uso noturno típico.", "fonte": "premissa do grupo"},
+  "lampada_fluorescente_w": {"valor": 15, "unidade": "W", "tipo": "estimado", "origem": "Fluorescente compacta com fluxo luminoso equivalente a uma LED de 9 W (~800 lm).", "fonte": "https://www.gov.br/inmetro/pt-br"},
+  "lampada_led_w": {"valor": 9, "unidade": "W", "tipo": "estimado", "origem": "LED de ~800 lm (equivalente).", "fonte": "https://www.gov.br/inmetro/pt-br"},
+  "preco_lampada_led_r": {"valor": 12.0, "unidade": "R$/unidade", "tipo": "estimado", "origem": "Preço de varejo de referência (conferir no comércio local).", "fonte": "pesquisa de preço do grupo"},
+  "geladeira_kwh_mes": {"valor": 30, "unidade": "kWh/mês", "tipo": "estimado", "origem": "Faixa de consumo de refrigerador de 1 porta na Etiqueta Nacional de Conservação de Energia (ENCE).", "fonte": "https://www.gov.br/inmetro/pt-br"},
+  "tv_e_outros_kwh_mes": {"valor": 35, "unidade": "kWh/mês", "tipo": "estimado", "origem": "TV (100 W x 5 h x 30 dias = 15 kWh) + outros aparelhos (20 kWh).", "fonte": "premissa do grupo"},
+  "aquecedor_solar_custo_r": {"valor": 3000, "unidade": "R$ instalado", "tipo": "estimado", "origem": "Aquecedor solar de água para 2 pessoas (reservatório ~200 L), faixa de mercado; pedir orçamento local.", "fonte": "pesquisa de preço do grupo"},
+  "aquecedor_solar_fracao": {"valor": 0.70, "unidade": "fração da energia do banho suprida pelo sol", "tipo": "estimado", "origem": "Fração solar usual de projeto (60% a 80%), varia com clima e dimensionamento.", "fonte": "https://www.gov.br/inmetro/pt-br"},
+  "fv_custo_r_wp": {
+    "valor": 2.93, "unidade": "R$/Wp", "tipo": "oficial",
+    "origem": "Greener: sistema residencial de 4 kWp custa em média R$ 11,7 mil (dados 2024) = R$ 2,93/Wp. Sistemas menores tendem a custar mais por Wp.",
+    "fonte": "https://www.greener.com.br/estudos/"
+  },
+  "fv_geracao_kwh_kwp_mes": {"valor": 115, "unidade": "kWh/kWp/mês", "tipo": "estimado", "origem": "Irradiação média ~4,8 kWh/m²/dia x 30 dias x rendimento global 0,80.", "fonte": "http://labren.ccst.inpe.br/atlas_2017.html"},
+  "fv_fracao_compensada": {"valor": 0.85, "unidade": "fração", "tipo": "estimado", "origem": "Perda de parte do crédito pela cobrança gradual do 'Fio B' para sistemas novos (Lei 14.300/2022).", "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14300.htm"},
+  "custo_disponibilidade_kwh": {"valor": 30, "unidade": "kWh/mês (monofásico)", "tipo": "oficial", "origem": "Consumo mínimo faturado de unidade monofásica (REN ANEEL 1.000/2021).", "fonte": "https://www.gov.br/aneel/pt-br"},
+  "tarifa_social_isencao_kwh": {"valor": 80, "unidade": "kWh/mês", "tipo": "oficial", "origem": "Luz do Povo: gratuidade até 80 kWh/mês para famílias do CadÚnico com renda de até 1/2 salário mínimo por pessoa e beneficiários do BPC (vigente desde 05/07/2025).", "fonte": "https://www.gov.br/mme/pt-br/a-revolucao-brasileira-em-energia-e-mineracao/combate-a-pobreza-energetica-e-inclusao-social/luz-do-povo"},
+  "fator_emissao_t_mwh": {"valor": 0.0385, "unidade": "tCO2/MWh", "tipo": "oficial", "origem": "Fator médio anual de emissão do SIN em 2023 (MCTI).", "fonte": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/sirene"}
+}

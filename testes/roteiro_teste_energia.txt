@@ -1,0 +1,19 @@
+5
+abc
+150
+
+n
+s
+s
+5
+
+0,95
+s
+s
+n
+1
+vale a pena colocar placa solar?
+s
+0
+0
+4

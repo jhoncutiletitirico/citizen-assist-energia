@@ -1,0 +1,110 @@
+{
+  "atendimentos": [
+    {
+      "data": "2026-11-19 06:41:40",
+      "origem": "energia",
+      "pergunta": "simulação de economia de energia",
+      "id_orientacao": null,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:41:40",
+      "origem": "pergunta",
+      "pergunta": "quanto gasta o chuveiro?",
+      "id_orientacao": 13,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:41:40",
+      "origem": "pergunta",
+      "pergunta": "placa solar vale a pena?",
+      "id_orientacao": 15,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:41:40",
+      "origem": "energia",
+      "pergunta": "simulação de economia de energia",
+      "id_orientacao": null,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:41:40",
+      "origem": "pergunta",
+      "pergunta": "como pedir desconto na conta de luz",
+      "id_orientacao": 9,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:41:41",
+      "origem": "energia",
+      "pergunta": "simulação de economia de energia",
+      "id_orientacao": null,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:41:41",
+      "origem": "pergunta",
+      "pergunta": "trocar geladeira velha economiza?",
+      "id_orientacao": 14,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:41:41",
+      "origem": "pergunta",
+      "pergunta": "o que é bandeira vermelha?",
+      "id_orientacao": null,
+      "encontrou": false,
+      "ajudou": false,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:41:41",
+      "origem": "energia",
+      "pergunta": "simulação de economia de energia",
+      "id_orientacao": null,
+      "encontrou": true,
+      "ajudou": false,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    },
+    {
+      "data": "2026-11-19 06:41:41",
+      "origem": "pergunta",
+      "pergunta": "lampada led gasta menos?",
+      "id_orientacao": 14,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 0.0
+    }
+  ],
+  "avaliacoes_facilidade": [
+    4,
+    5,
+    4,
+    3
+  ]
+}

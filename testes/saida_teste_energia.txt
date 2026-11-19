@@ -1,0 +1,105 @@
+==============================================================
+  Citizen Assist AI - Pessoas idosas (60+) e uso consciente de energia
+==============================================================
+Este assistente NÃO é canal oficial e NÃO pede seus dados pessoais.
+
+------------- MENU -------------
+ 1 - Fazer uma pergunta
+ 2 - Navegar por categorias
+ 3 - Ver indicadores
+ 4 - Exportar atendimentos (CSV)
+ 5 - Simulador de economia de energia
+ 0 - Sair
+Escolha uma opção: 
+== SIMULADOR DE ECONOMIA DE ENERGIA ==
+Use os números da sua conta de luz. NÃO digite nome, CPF ou nº de instalação.
+Consumo do mês em kWh (ENTER = casa de referência de 2 pessoas): Entrada inválida: digite apenas o número (ex.: 150).
+Consumo do mês em kWh (ENTER = casa de referência de 2 pessoas): Valor do kWh em R$ (ENTER = 1.10, estimativa): Sua família recebe a Tarifa Social / Luz do Povo? (s/n): Vocês usam chuveiro elétrico? (s/n): 
+Consumo considerado: 150,0 kWh/mês | Conta estimada: R$ 165,00
+Alternativa                         Economia/mês    Investimento    Se paga em
+Uso consciente + LED                    R$ 24,09        R$ 72,00       3 meses
+Aquecedor solar de água                 R$ 42,35     R$ 3.000,00      71 meses
+Solar fotovoltaica (1.5 kWp)           R$ 132,00     R$ 4.395,00      33 meses
+
+Observações:
+  - Uso consciente + LED: Baixo custo e retorno imediato; depende da mudança de hábito.
+  - Aquecedor solar de água: Precisa de telhado com sol e espaço para o reservatório; em dias nublados o chuveiro elétrico complementa.
+  - Solar fotovoltaica (1.5 kWp): Exige telhado adequado, instalador habilitado e aprovação da distribuidora; a taxa mínima e a iluminação pública continuam.
+
+Recomendações:
+  * 1º passo, sempre: uso consciente (banho mais curto, chuveiro na posição verão nos dias quentes e lâmpadas LED). É o que tem o menor custo.
+  * Entre as renováveis, 'Solar fotovoltaica (1.5 kWp)' se paga mais rápido (cerca de 2.8 anos).
+  * Antes de comprar equipamentos, peça pelo menos 3 orçamentos e desconfie de promessas de 'conta zero'.
+
+Fontes: ANEEL (tarifas), MME (Luz do Povo), Greener (custo solar), MCTI (emissões).
+Detalhes em calculos/memoria_de_calculo.md
+Aviso: valores ESTIMADOS para orientação. Economia, geração e custos reais dependem do seu aparelho, clima, tarifa da distribuidora e orçamento local. Este assistente NÃO é canal oficial.
+
+Essa simulação ajudou? (s/n): 
+------------- MENU -------------
+ 1 - Fazer uma pergunta
+ 2 - Navegar por categorias
+ 3 - Ver indicadores
+ 4 - Exportar atendimentos (CSV)
+ 5 - Simulador de economia de energia
+ 0 - Sair
+Escolha uma opção: 
+== SIMULADOR DE ECONOMIA DE ENERGIA ==
+Use os números da sua conta de luz. NÃO digite nome, CPF ou nº de instalação.
+Consumo do mês em kWh (ENTER = casa de referência de 2 pessoas): Valor do kWh em R$ (ENTER = 1.10, estimativa): Sua família recebe a Tarifa Social / Luz do Povo? (s/n): Vocês usam chuveiro elétrico? (s/n): 
+Consumo considerado: 133,5 kWh/mês | Conta estimada: R$ 50,82
+Alternativa                         Economia/mês    Investimento    Se paga em
+Uso consciente + LED                    R$ 20,81        R$ 72,00       3 meses
+Aquecedor solar de água                 R$ 36,57     R$ 3.000,00      82 meses
+Solar fotovoltaica (0.5 kWp)            R$ 46,43     R$ 1.465,00      32 meses
+
+Observações:
+  - Uso consciente + LED: Baixo custo e retorno imediato; depende da mudança de hábito.
+  - Aquecedor solar de água: Precisa de telhado com sol e espaço para o reservatório; em dias nublados o chuveiro elétrico complementa.
+  - Solar fotovoltaica (0.5 kWp): Exige telhado adequado, instalador habilitado e aprovação da distribuidora; a taxa mínima e a iluminação pública continuam.
+
+Recomendações:
+  * 1º passo, sempre: uso consciente (banho mais curto, chuveiro na posição verão nos dias quentes e lâmpadas LED). É o que tem o menor custo.
+  * Entre as renováveis, 'Solar fotovoltaica (0.5 kWp)' se paga mais rápido (cerca de 2.6 anos).
+  * Com Tarifa Social, a economia em dinheiro de qualquer alternativa é menor, porque os primeiros 80 kWh já são gratuitos.
+  * Antes de comprar equipamentos, peça pelo menos 3 orçamentos e desconfie de promessas de 'conta zero'.
+
+Fontes: ANEEL (tarifas), MME (Luz do Povo), Greener (custo solar), MCTI (emissões).
+Detalhes em calculos/memoria_de_calculo.md
+Aviso: valores ESTIMADOS para orientação. Economia, geração e custos reais dependem do seu aparelho, clima, tarifa da distribuidora e orçamento local. Este assistente NÃO é canal oficial.
+
+Essa simulação ajudou? (s/n): 
+------------- MENU -------------
+ 1 - Fazer uma pergunta
+ 2 - Navegar por categorias
+ 3 - Ver indicadores
+ 4 - Exportar atendimentos (CSV)
+ 5 - Simulador de economia de energia
+ 0 - Sair
+Escolha uma opção: 
+Digite sua dúvida (0 para voltar): 
+Confiança da resposta: ALTA (6 pontos)
+
+>> Vale a pena instalar energia solar em casa? [Energia]
+Depende do seu consumo e de ter Tarifa Social. Quem gasta pouco e tem Tarifa Social já não paga os primeiros 80 kWh, então placas solares trazem pouca economia. O aquecedor solar de água reduz o gasto do chuveiro. Sistemas de geração precisam de instalador habilitado e aprovação da distribuidora. Use a opção 5 do menu para comparar as alternativas.
+Documentos necessários:
+  - Conta de luz (para ver o consumo em kWh)
+  - Pelo menos 3 orçamentos de empresas diferentes
+Onde: Distribuidora de energia da sua região e empresas instaladoras
+Fonte: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14300.htm (verificado em 2026-11-09)
+Aviso: este assistente NÃO é um canal oficial. Confirme na fonte indicada.
+
+Essa orientação respondeu sua dúvida? (s/n): 
+Digite sua dúvida (0 para voltar): 
+------------- MENU -------------
+ 1 - Fazer uma pergunta
+ 2 - Navegar por categorias
+ 3 - Ver indicadores
+ 4 - Exportar atendimentos (CSV)
+ 5 - Simulador de economia de energia
+ 0 - Sair
+Escolha uma opção: 
+De 1 a 5, quão fácil foi usar o assistente? (0 para pular): Obrigado pela nota!
+
+3 atendimento(s) exportado(s) para data/atendimentos.csv
+Até logo! Procure sempre os canais oficiais.
